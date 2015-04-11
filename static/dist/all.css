@@ -1,7 +1,6 @@
-/*test*/
 .dw-trans .dw-persp {
     overflow: hidden;
-    perspective: 10000;
+    perspective: 1000;
     -webkit-perspective: 1000;
     -moz-perspective: 1000;
 }
