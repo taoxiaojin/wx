@@ -1,6 +1,7 @@
+/*test*/
 .dw-trans .dw-persp {
     overflow: hidden;
-    perspective: 1000;
+    perspective: 10000;
     -webkit-perspective: 1000;
     -moz-perspective: 1000;
 }
@@ -607,6 +608,8 @@
         -moz-transform: translateY(0);
     }
 }
+
+
 /* Slide up out */
 @keyframes dw-su-out {
     from {
